@@ -14,10 +14,10 @@ public class Response {
 
     private String systemTime;
 
-    private String code;
+    private Codes code;
 
-    private String errorCode;
+    private ErrorCodes errorCode;
 
-    private String errorMessage;
+    private ErrorMessages errorMessage;
 
 }
