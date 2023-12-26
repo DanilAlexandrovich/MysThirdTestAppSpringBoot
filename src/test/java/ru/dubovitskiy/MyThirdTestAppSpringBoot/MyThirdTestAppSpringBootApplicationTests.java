@@ -1,10 +1,10 @@
-package ru.dubovitskiy.MysSecondTestAppSpringBoot;
+package ru.dubovitskiy.MyThirdTestAppSpringBoot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MysSecondTestAppSpringBootApplicationTests {
+class MyThirdTestAppSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {

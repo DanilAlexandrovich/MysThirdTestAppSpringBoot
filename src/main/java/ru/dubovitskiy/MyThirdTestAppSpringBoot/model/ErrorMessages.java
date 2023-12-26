@@ -1,4 +1,4 @@
-package ru.dubovitskiy.MysSecondTestAppSpringBoot.model;
+package ru.dubovitskiy.MyThirdTestAppSpringBoot.model;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 

@@ -1,4 +1,4 @@
-package ru.dubovitskiy.MysSecondTestAppSpringBoot.model;
+package ru.dubovitskiy.MyThirdTestAppSpringBoot.model;
 
 import lombok.Builder;
 import lombok.Data;

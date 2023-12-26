@@ -1,4 +1,4 @@
-package ru.dubovitskiy.MysSecondTestAppSpringBoot.exception;
+package ru.dubovitskiy.MyThirdTestAppSpringBoot.exception;
 
 public class ValidationFailedException  extends Exception {
 

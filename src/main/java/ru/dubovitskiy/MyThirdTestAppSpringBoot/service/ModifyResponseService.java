@@ -1,4 +1,4 @@
-package ru.dubovitskiy.MysSecondTestAppSpringBoot.service;
+package ru.dubovitskiy.MyThirdTestAppSpringBoot.service;
 
 import org.springframework.stereotype.Service;
 import ru.dubovitskiy.MySecondTestAppSpringBoot.model.Response;

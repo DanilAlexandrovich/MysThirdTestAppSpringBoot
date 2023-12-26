@@ -1,13 +1,13 @@
-package ru.dubovitskiy.MysSecondTestAppSpringBoot;
+package ru.dubovitskiy.MyThirdTestAppSpringBoot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MysSecondTestAppSpringBootApplication {
+public class MyThirdTestAppSpringBootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MysSecondTestAppSpringBootApplication.class, args);
+		SpringApplication.run(MyThirdTestAppSpringBootApplication.class, args);
 	}
 
 }
