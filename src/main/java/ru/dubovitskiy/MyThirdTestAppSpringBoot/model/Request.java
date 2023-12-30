@@ -31,7 +31,10 @@ public class Request {
     private String systemTime;
 
     private String source;
-
+    private Positions position;
+    private Double salary;
+    private Double bonus;
+    private Integer workDays;
 
     @Max(value = 100000, message = "Превышено максимальное значение поля communicationId равное 100000")
     @Min(value = 1, message = "Значение поля communicationId меньше минимального равного 1")
@@ -49,6 +52,10 @@ public class Request {
                 ", systemName='" + systemName + '\'' +
                 ", systemTime='" + systemTime + '\'' +
                 ", source='" + source + '\'' +
+                ", position='" + position + '\'' +
+                ", salary=" + salary +
+                ", bonus=" + bonus +
+                ", workDays=" + workDays +
                 ", communicationId=" + communicationId +
                 ", templateId=" + templateId +
                 ", productCode=" + productCode +

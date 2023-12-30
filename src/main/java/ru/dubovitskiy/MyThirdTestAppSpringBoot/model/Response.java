@@ -6,18 +6,12 @@ import lombok.Data;
 @Data
 @Builder
 public class Response {
-
-
     private String uid;
-
-    private String opperationUid;
-
+    private String operationUid;
     private String systemTime;
-
     private Codes code;
-
+    private Double annualBonus;
+    private Double quarterlyBonus;
     private ErrorCodes errorCode;
-
     private ErrorMessages errorMessage;
-
 }
